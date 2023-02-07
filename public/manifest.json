@@ -19,7 +19,9 @@
     }
   ],
   "start_url": ".",
+  "_comment":"start_url은 앱을 누르면 처음 뜨는 페이지 경로(.은 index.html)",
   "display": "standalone",
+  "_comment0":"display는 상단 바 제거 여부",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
